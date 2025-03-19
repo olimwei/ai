@@ -68,7 +68,9 @@ sidebar:
 ![SPX走势图](https://cdn.jsdelivr.net/gh/olimwei/img@main/2025/20250318-SPX-h2-c.jpeg "hover me")
 第三种是jsdelivr代理加速的方式
 
-关于图片的cdn加速，可以考虑用CF page读取github图库生成的自定义域名地址来建立。
+关于图片的cdn加速，可以考虑用CF page读取github图库生成的自定义域名地址来建立。经过测试，完全可行！！！这样可以把gh改成private。
+这可以考虑作为主要的【第四种】使用方法！！！这种方式链接结构清晰，利于日后图片文件归档整理。见下图：
+![SPX走势图](https://image.olim.cc/2025/20250318-SPX-h2-c.jpeg "hover me")
 
 ### 插入视频
 
