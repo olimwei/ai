@@ -48,11 +48,15 @@ sidebar:
 
 ![走势图](http://money.olim.ca/assets/images/2024/2024-05-31-DXY.jpg "hover me")
 
-下面这个图片是用的在CF的外链
+下面这个图片是用的在CF的外链(storage启用了自定义域名，好像不能成功外链)
 ![2024-01-5美元指数dxy走势图](https://file.olim.in/img/2024/2024-01-05-DXY-day-1.jpg "hover me")
 
-下面这个图片是用的在oracle的外链
+下面这个图片也是用的在CF的外链（pan空间本身没启用自定义域名，只是上传端用了自定义域名）
 ![CRNC走势图](https://pan.olim.cc/webdav/img/2025/CRNC.jpeg "hover me")
+
+下面两张同样的图片用的在oracle的外链（alist）两种地址显示方式
+![SPX走势图](https://alist.olim.cc/p/image/SPX-20250304-2h-c.jpg?sign=JofVCtfV3Evh7fK0RZoCpkCj7NDEPP_xDOqMuc-B934=:0 "hover me")
+![SPX走势图](https://alist.olim.cc/image/SPX-20250304-2h-c.jpg "hover me")
 
 ### 插入视频
 
