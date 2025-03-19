@@ -48,6 +48,9 @@ sidebar:
 
 ![走势图](http://money.olim.ca/assets/images/2024/2024-05-31-DXY.jpg "hover me")
 
+下面这个图片是用的外链
+![2024-01-5美元指数dxy走势图](https://file.olim.in/img/2024/2024-01-05-DXY-day-1.jpg "hover me")
+
 ### 插入视频
 
 <!-- 16:9 aspect ratio -->
