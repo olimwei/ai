@@ -57,10 +57,13 @@ sidebar:
 下面两张同样的图片用的在oracle的外链（用alist获取的外链）
 ![SPX走势图](https://alist.olim.cc/p/image/SPX-20250304-2h-c.jpg?sign=JofVCtfV3Evh7fK0RZoCpkCj7NDEPP_xDOqMuc-B934=:0 "hover me")
 
-下面两张相同的图片用在github上(这个可以作为经常使用的方式)。
+下面的图片用存在github上。用了三种链接方式。(这个可以作为经常使用的方式)
 ![SPX走势图](https://img.olim.cc/2025/20250318-SPX-h2-c.jpeg "hover me")
-下面是用jsdelivr.net代理加速的
-![SPX走势图](https://cdn.jsdelivr.net/gh/olimwei/img@main/2025/20250318-SPX-h2-c.jpeg?raw=true "hover me")
+第一次是用自定义域名的链接
+![SPX走势图](https://raw.githubusercontent.com/olimwei/img/refs/heads/main/2025/20250318-SPX-h2-c.jpeg "hover me")
+第二次是用github生成的链接
+![SPX走势图](https://cdn..net/gh/olimwei/img@main/2025/20250318-SPX-h2-c.jpeg?raw=true "hover me")
+第三种是jsdelivr代理加速的方式
 
 ### 插入视频
 
