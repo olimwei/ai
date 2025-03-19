@@ -54,9 +54,13 @@ sidebar:
 下面这个图片也是用的在CF的外链（pan空间本身没启用自定义域名，只是上传端用了自定义域名）
 ![CRNC走势图](https://pan.olim.cc/webdav/img/2025/CRNC.jpeg "hover me")
 
-下面两张同样的图片用的在oracle的外链（alist）两种地址显示方式
+下面两张同样的图片用的在oracle的外链（用alist获取的外链）
 ![SPX走势图](https://alist.olim.cc/p/image/SPX-20250304-2h-c.jpg?sign=JofVCtfV3Evh7fK0RZoCpkCj7NDEPP_xDOqMuc-B934=:0 "hover me")
-![SPX走势图](https://alist.olim.cc/image/SPX-20250304-2h-c.jpg "hover me")
+
+下面两张相同的图片用在github上(这个可以作为经常使用的方式)。
+![SPX走势图](https://img.olim.cc/2025/20250318-SPX-h2-c.jpeg "hover me")
+下面是用jsdelivr.net代理加速的
+![SPX走势图](https://cdn.jsdelivr.net/gh/olimwei/img@main/2025/20250318-SPX-h2-c.jpeg?raw=true "hover me")
 
 ### 插入视频
 
