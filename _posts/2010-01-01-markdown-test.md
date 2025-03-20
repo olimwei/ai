@@ -69,8 +69,9 @@ sidebar:
 第三种是jsdelivr代理加速的方式
 
 关于图片的cdn加速，可以考虑用CF page读取github图库生成的自定义域名地址来建立。经过测试，完全可行！！！这样可以把gh改成private。
-这可以考虑作为主要的【第四种】使用方法！！！这种方式链接结构清晰，利于日后图片文件归档整理。见下图：
-![SPX走势图](https://image.olim.cc/2025/20250318-SPX-h2-c.jpeg "hover me")
+这可以考虑作为主要的【第四种】使用方法！！！这种方式链接结构清晰，利于日后图片文件归档整理。
+最新测试用CF的pages，直接把图片通过wrangler部署到cloudflare的pages上，利用cloudflare的全球cdn优势，相当于利用cloudflare的pages建立了一个个人图库。。。见下图：
+![SPX走势图](https://image.olim.cc/2025/BB-20250212-hour-c.jpeg "hover me")
 
 ### 插入视频
 
