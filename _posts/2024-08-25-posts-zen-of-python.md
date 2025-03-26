@@ -2,7 +2,7 @@
 title: "python之禅"
 header:
   image: 
-  teaser: /assets/images/teaser/zen-of-python-th.png
+  teaser: https://image.olim.cc/ai.olim.ca/teaser/zen-of-python-th.png
 layout: blog
 excerpt: "python之禅,说的太棒了。"
 read_time: true
@@ -78,4 +78,4 @@ tags:
     > 命名空间是个很棒的思路，我们要多多使用它。
 
 </br>
-![Python之禅](/assets/images/zen-of-python.png)
+![Python之禅](https://image.olim.cc/ai.olim.ca/zen-of-python.png)

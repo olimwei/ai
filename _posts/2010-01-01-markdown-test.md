@@ -47,7 +47,7 @@ sidebar:
 #### 图片链接
 图片链接和文字链接不同的是前面有个感叹号。可以加鼠标移动到图片时显示的文字。
 
-![走势图](http://money.olim.ca/assets/images/2024/2024-05-31-DXY.jpg "hover me")
+![走势图](http://money.olim.cahttps://image.olim.cc/ai.olim.ca/2024/2024-05-31-DXY.jpg "hover me")
 
 ##### 下面这个图片是用的在CF的外链(storage启用了自定义域名，好像不能成功外链)
 ![2024-01-5美元指数dxy走势图](https://file.olim.in/img/2024/2024-01-05-DXY-day-1.jpg "hover me")
@@ -81,7 +81,7 @@ sidebar:
 </div>
 
 <iframe 
-src="/assets/images/blooming.mp4" 
+src="https://image.olim.cc/ai.olim.ca/blooming.mp4" 
 scrolling="no" 
 border="0" 
 frameborder="no" 
@@ -93,7 +93,7 @@ width=800>
 
 <!-- 1:1 aspect ratio -->
 <div class="embed-responsive embed-responsive-1by1">
-  <iframe class="embed-responsive-item" src="/assets/images/blooming.mp4"></iframe>
+  <iframe class="embed-responsive-item" src="https://image.olim.cc/ai.olim.ca/blooming.mp4"></iframe>
 </div>
 
 ### 引用
@@ -190,13 +190,13 @@ it requires util.js.
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="http://money.olim.ca/assets/images/2024b/AI-20240808-comments-1.png" alt="First slide">
+      <img class="d-block w-100" src="http://money.olim.cahttps://image.olim.cc/ai.olim.ca/2024b/AI-20240808-comments-1.png" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="http://money.olim.ca/assets/images/2024b/AI-20240809-comments-1.png" alt="Second slide">
+      <img class="d-block w-100" src="http://money.olim.cahttps://image.olim.cc/ai.olim.ca/2024b/AI-20240809-comments-1.png" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="http://money.olim.ca/assets/images/2024b/AI-20240812-comments-1.png" alt="Third slide">
+      <img class="d-block w-100" src="http://money.olim.cahttps://image.olim.cc/ai.olim.ca/2024b/AI-20240812-comments-1.png" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
