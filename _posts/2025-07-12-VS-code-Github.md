@@ -1,4 +1,20 @@
-Gemini根据我和他的对话，整理一份在 macOS 上设置并同时使用两个 GitHub 账户（一个全局 Personal，一个特定文件夹下的 Work）的完整指南。
+---
+title: VS code + Github 多账户使用配置"
+layout: blog
+excerpt: "整理如何在一台电脑的VS code里使用不同Github账户。"
+read_time: true
+comments: true
+share: true
+# author_profile: true
+classes: wide
+categories:
+  - 欧耶之AI
+tags:
+  - Gemini
+  - Visual Studio Code
+  - Github
+---
+Gemini根据我和他的对话，整理了一份在 macOS 上设置并同时使用两个 GitHub 账户（一个全局 Personal，一个特定文件夹下的 Work）的完整指南。
 
 -----
 
