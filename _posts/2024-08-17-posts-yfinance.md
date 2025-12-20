@@ -27,11 +27,11 @@ yfinance是利用雅虎财经的数据模块，可以作为一个用python分析
 
 ## yfinance模块介绍
 ### yfinance的几大功能块:
-![yfinance的几大功能块](https://image.olim.cc/ai.olim.ca/2024/yfinance-classes-and-methods.jpg)
+![yfinance的几大功能块](https://image.olim.in/ai.olim.ca/2024/yfinance-classes-and-methods.jpg)
 
 ### Ticker
 yfinance下ticker获取资料方式：
-![ticker获取资料方式](https://image.olim.cc/ai.olim.ca/2024/yfinance-ticker-methods.jpg)
+![ticker获取资料方式](https://image.olim.in/ai.olim.ca/2024/yfinance-ticker-methods.jpg)
 
 #### 获取单只股票历史数据：
 ```
@@ -144,7 +144,7 @@ data.head()
 
 #### 获取基本面信息：
 基本面信息范畴有：
-![基本面信息](https://image.olim.cc/ai.olim.ca/2024/ticker-fundamental-methods.webp)
+![基本面信息](https://image.olim.in/ai.olim.ca/2024/ticker-fundamental-methods.webp)
 
 举例：
 ```
@@ -223,13 +223,13 @@ df.iloc[:,:5] # for display purposes
 
 #### 获取期权数据：
 使用Ticker.options和Ticker.option_chain方式：
-![获取期权方式](https://image.olim.cc/ai.olim.ca/2024/yfinance-options-methods.jpg)
+![获取期权方式](https://image.olim.in/ai.olim.ca/2024/yfinance-options-methods.jpg)
 分别给出下面信息：
 * options 返回到期日信息。
 * option_chain 返回期权链信息。
 
 期权链包括：
-![期权链模块](https://image.olim.cc/ai.olim.ca/2024/yfinance-options-object-methods.jpg)
+![期权链模块](https://image.olim.in/ai.olim.ca/2024/yfinance-options-object-methods.jpg)
 
 举例（获得call/put信息）：
 ```

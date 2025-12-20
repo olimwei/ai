@@ -5,18 +5,18 @@ excerpt: "欧耶AI的学习思考和实践"
 layout: splash
 header:
   overlay_color: "#5e616c"
-  overlay_image: https://image.olim.cc/ai.olim.ca/o-home-featrue.jpg
+  overlay_image: https://image.olim.in/ai.olim.ca/o-home-featrue.jpg
 excerpt: >
   欧耶AI的学习思考和实践
 layouts_gallery:
-  - url: https://image.olim.cc/ai.olim.ca/o-feature1.png
-    image_path: https://image.olim.cc/ai.olim.ca/o-feature1.png
+  - url: https://image.olim.in/ai.olim.ca/o-feature1.png
+    image_path: https://image.olim.in/ai.olim.ca/o-feature1.png
     alt: "splash布局范例"
-  - url: https://image.olim.cc/ai.olim.ca/o-feature2.png
-    image_path: https://image.olim.cc/ai.olim.ca/o-feature2.png
+  - url: https://image.olim.in/ai.olim.ca/o-feature2.png
+    image_path: https://image.olim.in/ai.olim.ca/o-feature2.png
     alt: "单一布局，带评论和相关文章功能"
-  - url: https://image.olim.cc/ai.olim.ca/o-feature3.png
-    image_path: https://image.olim.cc/ai.olim.ca/o-feature3.png
+  - url: https://image.olim.in/ai.olim.ca/o-feature3.png
+    image_path: https://image.olim.in/ai.olim.ca/o-feature3.png
     alt: "archive布局范例"
 ---
 

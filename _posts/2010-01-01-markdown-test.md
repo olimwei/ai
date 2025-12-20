@@ -47,21 +47,21 @@ sidebar:
 #### 图片链接
 图片链接和文字链接不同的是前面有个感叹号。可以加鼠标移动到图片时显示的文字。
 
-![走势图](https://image.olim.cc/ai.olim.ca/2024/2024-05-31-DXY.jpg "hover me")
+![走势图](https://image.olim.in/ai.olim.ca/2024/2024-05-31-DXY.jpg "hover me")
 
 ##### 下面这个图片是用的在CF的外链(storage启用了自定义域名，好像不能成功外链)
 ![2024-01-5美元指数dxy走势图](https://file.olim.in/img/2024/2024-01-05-DXY-day-1.jpg "hover me")
 显然这种方法不成功，需要进行其它配置。虽然有办法，过于复杂，放弃。
 
 ##### 下面这个图片也是用的在CF的外链（pan空间本身没启用自定义域名，只是上传端用了自定义域名）
-![CRNC走势图](https://pan.olim.cc/webdav/img/2025/CRNC.jpeg "hover me")
+![CRNC走势图](https://pan.olim.in/webdav/img/2025/CRNC.jpeg "hover me")
 
 ##### 下面两张同样的图片用的在oracle的外链（用alist获取的外链）
-![SPX走势图](https://alist.olim.cc/p/image/SPX-20250304-2h-c.jpg?sign=JofVCtfV3Evh7fK0RZoCpkCj7NDEPP_xDOqMuc-B934=:0 "hover me")
+![SPX走势图](https://alist.olim.in/p/image/SPX-20250304-2h-c.jpg?sign=JofVCtfV3Evh7fK0RZoCpkCj7NDEPP_xDOqMuc-B934=:0 "hover me")
 此法可行，只是现在不使用alist了。
 
 ##### 下面的图片用存在github上。用了三种链接方式。(这个可以作为经常使用的方式)
-![SPX走势图](https://img.olim.cc/2025/20250318-SPX-h2-c.jpeg "hover me")
+![SPX走势图](https://img.olim.in/2025/20250318-SPX-h2-c.jpeg "hover me")
 第一次是用自定义域名的链接
 
 ![SPX走势图](https://raw.githubusercontent.com/olimwei/img/main/2025/20250318-SPX-h2-c.jpeg "hover me")
@@ -73,7 +73,7 @@ sidebar:
 关于图片的cdn加速，可以考虑用CF page读取github图库生成的自定义域名地址来建立。经过测试，完全可行！！！这样可以把gh改成private。
 这可以考虑作为主要的【第四种】使用方法！！！这种方式链接结构清晰，利于日后图片文件归档整理。
 最新测试用CF的pages，直接把图片通过wrangler部署到cloudflare的pages上，利用cloudflare的全球cdn优势，相当于利用cloudflare的pages建立了一个个人图库。。。见下图：
-![SPX走势图](https://image.olim.cc/2025/BB-20250212-hour-c.jpeg "hover me")
+![SPX走势图](https://image.olim.in/2025/BB-20250212-hour-c.jpeg "hover me")
 上面的方法被选作常用方法。程序简答而固定，且便于维护。
 
 ### 插入视频
@@ -81,11 +81,11 @@ sidebar:
 <!-- 16:9 aspect ratio -->
 第一个按照16:9展示
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://image.olim.cc/ai.olim.ca/blooming.mp4"></iframe>
+  <iframe class="embed-responsive-item" src="https://image.olim.in/ai.olim.ca/blooming.mp4"></iframe>
 </div>
 第二个设800x600显示
 <iframe 
-src="https://image.olim.cc/ai.olim.ca/blooming.mp4" 
+src="https://image.olim.in/ai.olim.ca/blooming.mp4" 
 scrolling="no" 
 border="0" 
 frameborder="no" 
@@ -98,7 +98,7 @@ width=800>
 <!-- 1:1 aspect ratio -->
 第三个用1:1显示
 <div class="embed-responsive embed-responsive-1by1">
-  <iframe class="embed-responsive-item" src="https://image.olim.cc/ai.olim.ca/blooming.mp4"></iframe>
+  <iframe class="embed-responsive-item" src="https://image.olim.in/ai.olim.ca/blooming.mp4"></iframe>
 </div>
 
 ### 引用
@@ -196,13 +196,13 @@ it requires util.js.
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="http://money.olim.cahttps://image.olim.cc/ai.olim.ca/2024b/AI-20240808-comments-1.png" alt="First slide">
+      <img class="d-block w-100" src="http://money.olim.cahttps://image.olim.in/ai.olim.ca/2024b/AI-20240808-comments-1.png" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="http://money.olim.cahttps://image.olim.cc/ai.olim.ca/2024b/AI-20240809-comments-1.png" alt="Second slide">
+      <img class="d-block w-100" src="http://money.olim.cahttps://image.olim.in/ai.olim.ca/2024b/AI-20240809-comments-1.png" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="http://money.olim.cahttps://image.olim.cc/ai.olim.ca/2024b/AI-20240812-comments-1.png" alt="Third slide">
+      <img class="d-block w-100" src="http://money.olim.cahttps://image.olim.in/ai.olim.ca/2024b/AI-20240812-comments-1.png" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

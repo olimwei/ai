@@ -42,6 +42,6 @@ cloudflare慷慨地提供了很多免费的功能，在研究的时候发现一�
 Cloudflare真是良心活菩萨！
 
 贴一张用这样的方法存的图吧👇
-![SPX走势图](https://image.olim.cc/2025/BB-20250212-hour-c.jpeg "hover me")
+![SPX走势图](https://image.olim.in/2025/BB-20250212-hour-c.jpeg "hover me")
 
 我还是老派按照文件夹结构和文件命名法来分类存储文件。😂

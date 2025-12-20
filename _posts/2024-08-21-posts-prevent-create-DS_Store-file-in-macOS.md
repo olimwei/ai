@@ -2,7 +2,7 @@
 title: "如何防止macOS自动生成.DS_Store文件"
 header:
   image: 
-  teaser: https://image.olim.cc/ai.olim.ca/teaser/3-th.jpg
+  teaser: https://image.olim.in/ai.olim.ca/teaser/3-th.jpg
 layout: blog
 excerpt: "咨询了chatGPT：如何防止macOS自动生成.DS_Store文件？回答如下："
 read_time: true

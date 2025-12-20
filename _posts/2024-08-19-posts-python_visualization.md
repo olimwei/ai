@@ -1,8 +1,8 @@
 ---
 title: "Python中常用的数据可视化与交互式分析工具"
 header:
-  image: https://image.olim.cc/ai.olim.ca/unsplash-gallery-image-3.jpg
-  teaser: https://image.olim.cc/ai.olim.ca/unsplash-gallery-image-3-th.jpg
+  image: https://image.olim.in/ai.olim.ca/unsplash-gallery-image-3.jpg
+  teaser: https://image.olim.in/ai.olim.ca/unsplash-gallery-image-3-th.jpg
 layout: blog
 excerpt: "Python中常用的数据可视化与交互式分析工具，包括Matplotlib、Seaborn、Plotly和Bokeh。"
 read_time: true

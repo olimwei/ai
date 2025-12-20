@@ -2,7 +2,7 @@
 title: "只言片语-摘录"
 header:
   image: 
-  teaser: https://image.olim.cc/ai.olim.ca/teaser/3-th.jpg
+  teaser: https://image.olim.in/ai.olim.ca/teaser/3-th.jpg
 layout: blog
 excerpt: "网络游荡看到不错的话，摘录一下"
 read_time: true
