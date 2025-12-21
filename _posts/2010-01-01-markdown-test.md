@@ -11,7 +11,7 @@ sidebar:
   - title: 
     nav: XXX
 ---
-
+<meta name="referrer" content="no-referrer">
 ### 字体变化
 
 **加粗字体**， *斜字体*， ***加粗斜字体***， ~~化掉字体~~
