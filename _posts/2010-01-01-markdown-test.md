@@ -42,12 +42,12 @@ sidebar:
 #### 文字链接
 [文字链接]: http://olim.ca
 
-[文字链接2-阿齐兹][文字链接]。。。。这样预设了链接的文字，后面文章中如使用相同的链接，可以直接使用指定的文字，不用输入较长的真实链接，提高了输入效率。
+[欧耶][文字链接]。。。。这样预设了链接的文字，后面文章中如使用相同的链接，可以直接使用指定的文字，不用输入较长的真实链接，提高了输入效率。
 
 #### 图片链接
 图片链接和文字链接不同的是前面有个感叹号。可以加鼠标移动到图片时显示的文字。
 
-![走势图](https://image.olim.in/2024/2024-05-31-DXY.jpg "hover me")
+![走势图](https://image.olim.cc/2024/2024-05-31-DXY.jpg "hover me")
 
 ##### 下面这个图片是用的在CF的外链(storage启用了自定义域名，好像不能成功外链)
 ![2024-01-5美元指数dxy走势图](https://file.olim.in/img/2024/2024-01-05-DXY-day-1.jpg "hover me")
@@ -58,7 +58,7 @@ sidebar:
 
 
 ##### 下面的图片用存在github上。用了三种链接方式。(这个可以作为经常使用的方式)
-![SPX走势图](https://img.olim.in/2025/20250318-SPX-h2-c.jpeg "hover me")
+![SPX走势图](https://img.olim.cc/2025/20250318-SPX-h2-c.jpeg "hover me")
 第一次是用自定义域名的链接
 
 ![SPX走势图](https://raw.githubusercontent.com/olimwei/img/main/2025/20250318-SPX-h2-c.jpeg "hover me")
@@ -70,7 +70,7 @@ sidebar:
 关于图片的cdn加速，可以考虑用CF page读取github图库生成的自定义域名地址来建立。经过测试，完全可行！！！这样可以把gh改成private。
 这可以考虑作为主要的【第四种】使用方法！！！这种方式链接结构清晰，利于日后图片文件归档整理。
 最新测试用CF的pages，直接把图片通过wrangler部署到cloudflare的pages上，利用cloudflare的全球cdn优势，相当于利用cloudflare的pages建立了一个个人图库。。。见下图：
-![SPX走势图](https://image.olim.in/2025/BB-20250212-hour-c.jpeg "hover me")
+![SPX走势图](https://image.olim.cc/2025/BB-20250212-hour-c.jpeg "hover me")
 上面的方法被选作常用方法。程序简答而固定，且便于维护。
 
 ### 插入视频
