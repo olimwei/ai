@@ -11,7 +11,7 @@ sidebar:
   - title: 
     nav: XXX
 ---
-<meta name="referrer" content="no-referrer">
+
 ### 字体变化
 
 **加粗字体**， *斜字体*， ***加粗斜字体***， ~~化掉字体~~
@@ -47,7 +47,7 @@ sidebar:
 #### 图片链接
 图片链接和文字链接不同的是前面有个感叹号。可以加鼠标移动到图片时显示的文字。
 
-![走势图](https://image.olim.cc/2024/2024-05-31-DXY.jpg "hover me")
+![走势图](https://image.olim.in/2024/2024-05-31-DXY.jpg "hover me")
 
 ##### 下面这个图片是用的在CF的外链(storage启用了自定义域名，好像不能成功外链)
 ![2024-01-5美元指数dxy走势图](https://file.olim.in/img/2024/2024-01-05-DXY-day-1.jpg "hover me")
@@ -58,7 +58,7 @@ sidebar:
 
 
 ##### 下面的图片用存在github上。用了三种链接方式。(这个可以作为经常使用的方式)
-![SPX走势图](https://img.olim.cc/2025/20250318-SPX-h2-c.jpeg "hover me")
+![SPX走势图](https://img.olim.in/2025/20250318-SPX-h2-c.jpeg "hover me")
 第一次是用自定义域名的链接
 
 ![SPX走势图](https://raw.githubusercontent.com/olimwei/img/main/2025/20250318-SPX-h2-c.jpeg "hover me")
