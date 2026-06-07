@@ -1,5 +1,5 @@
 ---
-title: VS code + Github 多账户使用配置"
+title: "VS code + Github 多账户使用配置"
 layout: blog
 excerpt: "整理如何在一台电脑的VS code里使用不同Github账户。"
 read_time: true

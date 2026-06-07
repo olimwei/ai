@@ -1,5 +1,5 @@
 ---
-title: 和Gemini有关SSH的对话"
+title: "和Gemini有关SSH的对话"
 layout: blog
 excerpt: "和Gemini有关SSH日常使用的对话。"
 read_time: true

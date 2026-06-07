@@ -1,5 +1,5 @@
 ---
-title: linux命令手册"
+title: "linux命令手册"
 layout: blog
 excerpt: "linux命令手册整理"
 read_time: true

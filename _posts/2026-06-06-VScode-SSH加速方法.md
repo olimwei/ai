@@ -1,5 +1,5 @@
 ---
-title: VS code里插件Remote‑SSH加速的几个有效方法"
+title: "VS code里插件Remote‑SSH加速的几个有效方法"
 layout: blog
 excerpt: "Remote‑SSH 加速的 7 个最有效方法（从最重要到次重要）"
 read_time: true
